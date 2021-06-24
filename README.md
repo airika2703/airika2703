@@ -1,3 +1,3 @@
 ### Xin chào 👋
 - `I'm Khang (airika2703)`
-- `The losers are the winners!`
+- _The loser are winners!_
